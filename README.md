@@ -1,10 +1,7 @@
 # Loan Prediction - A Binary Classification Model
 Applied ML Classification algorithms on the dataset to predict loan status.
 
-Author: Akshat Raj Baranwal
-
- Performed pre-processing steps, explored analysis methods and showcased the output 
- using visualization techniques. 
+Performed pre-processing steps, explored analysis methods and showcased the output using visualization techniques. 
 
 Models Used:
 
@@ -25,10 +22,7 @@ Technologies:
 Data Source:
         Kaggle
 
-Steps pretty much are self explanatory. Necessary comments at appropriate places added.
 
-
-Feel free to ask of any doubts and consider dropping a ⭐ if the repo was of help!
 
 
 
